@@ -19,7 +19,7 @@ URLS = [URL_g1, URL_g2, URL_g3, URL_g4, URL_l1, URL_l2, URL_l3, URL_l4] # to tes
 
 # Fill in this dictionary with your personal details!
 JOB_APP = {
-    "first_name": "Harshi",
+    "first_name": "TEST",
     "last_name": "Bar",
     "email": "info.harshibar@gmail.com",
     "phone": "123-456-7890",
